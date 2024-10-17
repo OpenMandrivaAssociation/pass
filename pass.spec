@@ -5,7 +5,7 @@ Summary:        A password manager using standard Unix tools
 Version:        1.7.4
 Release:        1
 License:        GPLv2+
-Url:            http://zx2c4.com/projects/password-store/
+Url:            https://zx2c4.com/projects/password-store/
 BuildArch:      noarch
 Source:         http://git.zx2c4.com/password-store/snapshot/password-store-%{version}.tar.xz
 
